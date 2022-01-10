@@ -12,6 +12,7 @@
 </div>
 
 ## **Problem Statement**
+Many of students don't have habit of reading newspaper or any type of magazines, that result in increase in their communication,vocabulary skills that will help them in the english exams that are neccessary for foreign college entrance.So there is no way to note down new words and remember them and revise them day to day.
 
 ## **Solution**
 
@@ -21,6 +22,15 @@ Using Dictionary API, we have designed an app that shows the definition of that 
 <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774307-6560ffb0-9271-4182-a6e2-61d77e827d46.jpg">    <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774300-0c1dd701-c957-4d16-b30d-6d7031661126.jpg">   <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774305-c78ec372-0693-484e-9210-9ef05a09cccc.jpg">   <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774294-a37d8dd1-6426-43ba-854f-672c16b29acd.jpg">      <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774302-4d5f9837-9e31-472d-b265-fb57abd4015a.jpg">   
 
 ## **Functionality & Concepts used**
-The App has a very simple and interactive interface which helps the students 
+The App has a very simple and interactive interface which helps the user to enter the words and ge there definition in a flashcard format.So it is easy to memorable , when preparing for exams. Following are few android concepts used to achieve the functionalities in app :
+
+- `Recyclerview` :  To present the list of different words we used the efficient recyclerview. 
+- `Constraint Layout` : All of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+- `Free Dictionary API` : We are also using the Free Dictionary API to get the definition of the words.
+- `Gson Library` : To Parse the json inside the app.
 
 ## **Application Link & Future Scope**
+
+The app is currently release with version code of 1.0 and it is distributed by students. You can access the release of our app from [release](https://github.com/RITEKROUNAK/Android-Study-Jam/releases) section.
+
+Once the app is fully loaded with all the new feature that we have thought about then will try to launch it on playstore for all the students that arepreparing for the exams and need a app to increase their vocabulary skills daily.Also we are planning to make it a open-source project so that anyone who like to contribute to the project can do the same.
