@@ -21,5 +21,6 @@ Using Dictionary API, we have designed an app that shows the definition of that 
 <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774307-6560ffb0-9271-4182-a6e2-61d77e827d46.jpg">    <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774300-0c1dd701-c957-4d16-b30d-6d7031661126.jpg">   <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774305-c78ec372-0693-484e-9210-9ef05a09cccc.jpg">   <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774294-a37d8dd1-6426-43ba-854f-672c16b29acd.jpg">      <img width="200" height="433" src="https://user-images.githubusercontent.com/90130541/148774302-4d5f9837-9e31-472d-b265-fb57abd4015a.jpg">   
 
 ## **Functionality & Concepts used**
+The App has a very simple and interactive interface which helps the students 
 
 ## **Application Link & Future Scope**
