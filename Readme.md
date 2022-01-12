@@ -34,3 +34,50 @@ The App has a very simple and interactive interface which helps the user to ente
 The app is currently release with version code of 1.0 and it is distributed by students. You can access the release of our app from [release](https://github.com/RITEKROUNAK/Android-Study-Jam/releases) section.
 
 Once the app is fully loaded with all the new feature that we have thought about then will try to launch it on playstore for all the students that arepreparing for the exams and need a app to increase their vocabulary skills daily.Also we are planning to make it a open-source project so that anyone who like to contribute to the project can do the same.
+
+## Thanks to all the Contributors ❤️✨
+  
+<table>
+	<tr align="center">
+		<td>
+    Hardik Srivastava
+		<p align="center">
+			<img src = "https://avatars.githubusercontent.com/u/47493184" width="150" height="150" >
+		</p>
+			<p align="center">
+				<a href = "https://github.com/oddlyspaced">
+					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
+				</a>
+				<a href = "https://www.linkedin.com/in/srivastavahardik/">
+					<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+				</a>
+			</p>
+		</td>
+    <td>
+		Yash Raj
+		<p align="center">
+			<img src = "https://avatars.githubusercontent.com/u/90130541?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+			<p align="center">
+				<a href = "https://github.com/bigpeoples">
+					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
+				</a>
+			</p>
+		</td>
+    <td>
+		Ritek Rounak
+		<p align="center">
+			<img src = "https://avatars.githubusercontent.com/u/64047505" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+			<p align="center">
+				<a href = "https://github.com/RITEKROUNAK">
+					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
+				</a>
+				<a href = "https://www.linkedin.com/in/ritek-rounak">
+					<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+				</a>
+			</p>
+		</td>
+	</tr>
+</table>
+
